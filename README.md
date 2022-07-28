@@ -1,6 +1,6 @@
 ## Hi, My name is Ken Fukuyama!
 
-### I am a full stack developer with background in computer science and statistics currently studying at UCLA.
+### I am a full stack developer with background in computer science and data science currently studying at UCLA.
 
 <p align="center" style="border: 5px red;">
   <img width="460" height="300" src="space.gif" alt="space img">
