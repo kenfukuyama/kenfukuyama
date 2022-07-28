@@ -3,7 +3,7 @@
 ### I am a full stack developer with background in computer science and statistics currently studying at UCLA.
 
 <p align="center">
-  <img width="460" height="300" src="space.git">
+  <img width="460" height="300" src="space.gif">
 </p>
 
 <!--
