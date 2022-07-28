@@ -2,10 +2,7 @@
 
 ### I am a full stack developer with background in computer science and statistics currently studying at UCLA.
 
-![space img](space.gif)
-
-
-<img align="left" width="100" height="100" src="/space.gif">
+<img align="center" width="200" height="200" src="/space.gif">
 <!--
 **kenfukuyama/kenfukuyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
