@@ -1,4 +1,6 @@
-## Hi! My name is Ken Fukuyama
+## Hi, My name is Ken Fukuyama!
+
+### I am a full stack developer with background in computer science and statistics currently studying at UCLA.
 
 
 <!--
