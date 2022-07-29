@@ -4,8 +4,9 @@
 
 <p align="center" style="border: 5px red;">
   <img width="460" height="300" src="space.gif" alt="space img">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kenfukuyama&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
+  
 </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kenfukuyama&theme=black-ice&hide_border=false)](https://git.io/streak-stats)
 
 <!--
 **kenfukuyama/kenfukuyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
