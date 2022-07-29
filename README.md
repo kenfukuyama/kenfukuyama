@@ -4,6 +4,7 @@
 
 <p align="center" style="border: 5px red;">
   <img width="460" height="300" src="space.gif" alt="space img">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kenfukuyama&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
 </p>
 
 <!--
