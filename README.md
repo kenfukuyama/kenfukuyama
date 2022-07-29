@@ -1,7 +1,7 @@
 ## Hi, My name is Ken Fukuyama!
 
 #### I am a full stack developer with background in computer science and data science currently studying at UCLA.
-<center>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kenfukuyama&theme=black-ice&hide_border=false)](https://git.io/streak-stats) </center>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kenfukuyama&theme=black-ice&hide_border=false)](https://git.io/streak-stats) 
 
 <p align="center" style="border: 5px red;">
   <img width="460" height="300" src="space.gif" alt="space img">
