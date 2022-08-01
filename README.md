@@ -1,6 +1,6 @@
 ## Hi, My name is Ken Fukuyama!
 
-#### I am a full stack developer with background in computer science and data science currently studying at UCLA.
+### I am a full stack developer with background in computer science and data science currently studying at UCLA.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenfukuyama&theme=black-ice&hide_border=false" />
 </p>
