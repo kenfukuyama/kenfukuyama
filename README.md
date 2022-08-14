@@ -18,7 +18,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/kenfukuyama/Event-Planner-App">Event App</a>
+  <a href="https://github.com/kenfukuyama/Event-Planner-App">Repo: Event App</a>
 </div>
 
 
