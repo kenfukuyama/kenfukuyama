@@ -10,7 +10,8 @@
 </p>
 
 
-Projects:
+## Projects
+
 
 [Event App](https://github.com/kenfukuyama/Event-Planner-App)
 
