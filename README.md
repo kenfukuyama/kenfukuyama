@@ -12,8 +12,17 @@
 
 ## Projects
 
+<p align="center">
+  <img width="460" height="300" src="event_app_1.gif" alt="space img">
+</p>
 
-[Event App](https://github.com/kenfukuyama/Event-Planner-App)
+
+<div align="center">
+  <a href="https://github.com/kenfukuyama/Event-Planner-App">Event App</a>
+</div>
+
+
+
 
 
 
