@@ -1,25 +1,63 @@
+
+<div align="center" style="margin-bottom: 1rem; margin-top: 1rem;">
+
+## **- About Me -**
+
+</div>
+
 ## Hi, My name is Ken Fukuyama!
 
 ### I am a full stack developer with background in computer science and data science currently studying at UCLA.
-<p align="center">
+
+
+<p align="center" style="margin-bottom: 1rem; margin-top: 1rem;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenfukuyama&theme=black-ice&hide_border=false" />
 </p>
 
-<p align="center" style="border: 5px red;">
+<!-- <p align="center" style="border: 5px red;">
   <img width="460" height="300" src="space.gif" alt="space img">
-</p>
+</p> -->
 
 
-## Projects
+
+<div align="center" style="margin-bottom: 1rem; margin-top: 1rem;">
+
+## **- Projects -**
+
+</div>
+
+### Chit Chat - Full Stack Instant Messaging Application in Java
+<hr/>
+
+<div align="center">
+  <div style="display: flex; gap: 1rem; flex-direction: column; align-items: center">
+    <img width="460" src="chitchat-channels.gif" alt="channel img"/>
+    <img width="460" src="chitchat-dms.gif" alt="dm img"/>
+  </div>
+</div>
+
+<div align="center" style="margin-bottom: 2rem; margin-top: 1rem;">
+  <a href="https://github.com/kenfukuyama/chit-chat">Repo: Chit Chat</a>
+</div>
+
+
+### Event Management - CRUD Application Using Java Spring Boot Framework
+
+<hr/>
 
 <p align="center">
   <img width="460" height="300" src="event_app_1.gif" alt="space img">
 </p>
 
-
 <div align="center">
   <a href="https://github.com/kenfukuyama/Event-Planner-App">Repo: Event App</a>
 </div>
+
+
+
+
+
+
 
 
 
