@@ -7,9 +7,9 @@
 
 #### Hi, My name is Ken Fukuyama!
 
-<h4> 
-I am a full stack developer with background in computer science and data science currently studying at UCLA. Feel free to connect with me on <a href="www.linkedin.com/in/kenfukuyama">LinkedIn</a>
-</h4>
+<h3> 
+I am a full stack developer with background in computer science and data science currently studying at UCLA. Feel free to connect with me on <a href="https://www.linkedin.com/in/kenfukuyama/">LinkedIn</a>
+</h3>
 
 
 <p align="center" style="margin-bottom: 1rem; margin-top: 1rem;">
