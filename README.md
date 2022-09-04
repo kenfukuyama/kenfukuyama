@@ -43,7 +43,7 @@ Chit Chat - Full Stack Instant Messaging Application in Java
 </div>
 
 <div align="center" style="margin-bottom: 2rem; margin-top: 1rem;">
-  <a href="https://github.com/kenfukuyama/chitchat">Repo: Chit Chat</a>
+  <a href="https://github.com/kenfukuyama/chitchat">GitHub Repo: Chit Chat</a>
 </div>
 
 
@@ -62,7 +62,7 @@ Event Management - CRUD Application Using Java Spring Boot Framework
 </p>
 
 <div align="center">
-  <a href="https://github.com/kenfukuyama/Event-Planner-App">Repo: Event App</a>
+  <a href="https://github.com/kenfukuyama/Event-Planner-App">GitHub Repo: Event App</a>
 </div>
 
 
