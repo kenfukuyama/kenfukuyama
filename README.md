@@ -1,14 +1,13 @@
 
-<div align="center" style="margin-bottom: 1rem; margin-top: 1rem;">
+<h2 align="center" style="margin-bottom: 1rem; margin-top: 1rem;">
 
-### **- About Me -**
+ <strong> - About Me - </strong>
 
-</div>
+</h2>
 
-#### Hi, My name is Ken Fukuyama!
 
 <h3> 
-I am a full stack developer with background in computer science and data science currently studying at UCLA. Feel free to connect with me on <a href="https://www.linkedin.com/in/kenfukuyama/">LinkedIn</a>
+Hi my name is Ken Fukuyama! I am a full stack developer with background in computer science and data science currently studying at UCLA. I am passionate about creating software that makes people's life better and easier. Feel free to connect with me on <a href="https://www.linkedin.com/in/kenfukuyama/">LinkedIn</a> or send me an email (<em>kenfukuyama.12@gmail.com</em>).
 </h3>
 
 
@@ -22,17 +21,15 @@ I am a full stack developer with background in computer science and data science
 
 
 
-<div align="center" style="margin-bottom: 1rem; margin-top: 1rem;">
+<h2 style="margin-bottom: 1rem; margin-top: 1rem; text-align: center">
+<strong> - Projects - </strong>
+</h2>
 
-###  **- Projects -**
+<h3 align="center">
 
-</div>
+Chit Chat - Full Stack Instant Messaging Application in Java
 
-<div align="center">
-
-#### Chit Chat - Full Stack Instant Messaging Application in Java
-
-</div>
+</h3>
 
 
 <hr/>
@@ -50,11 +47,11 @@ I am a full stack developer with background in computer science and data science
 
 
 
-<div align="center">
+<h3 align="center">
 
-#### Event Management - CRUD Application Using Java Spring Boot Framework
+Event Management - CRUD Application Using Java Spring Boot Framework
 
-</div>
+</h3>
 
 
 <hr/>
