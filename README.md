@@ -6,12 +6,12 @@
 </h2>
 
 
-<h3> 
-Hi my name is Ken Fukuyama! I am a full stack developer with background in computer science and data science currently studying at UCLA. I am passionate about creating software that makes people's life better and easier. Feel free to connect with me on <a href="https://www.linkedin.com/in/kenfukuyama/">LinkedIn</a> or send me an email (<em>kenfukuyama.12@gmail.com</em>).
-</h3>
+<p> 
+Hi my name is Ken Fukuyama! I am a full stack developer with background in computer science and data science currently studying at UCLA. <br/> I am passionate about creating software that makes people's life better and easier. <br/>  <br/> Feel free to connect with me on <a href="https://www.linkedin.com/in/kenfukuyama/">LinkedIn</a> or send me an email (<em>kenfukuyama.12@gmail.com</em>).
+</p>
 
 
-<p align="center" style="margin-bottom: 1rem; margin-top: 1rem;">
+<p align="center" style="margin-bottom: 3rem; margin-top: 1rem;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenfukuyama&theme=black-ice&hide_border=false" />
 </p>
 
@@ -21,12 +21,13 @@ Hi my name is Ken Fukuyama! I am a full stack developer with background in compu
 
 
 
-<h2 style="margin-bottom: 1rem; margin-top: 1rem; text-align: center">
-<strong> - Projects - </strong>
+<h2 align="center" style="margin-bottom: 1rem; margin-top: 1rem;">
+ 
+ <strong> - Projects - </strong>
+
 </h2>
 
 <h3 align="center">
-
 Chit Chat - Full Stack Instant Messaging Application in Java
 
 </h3>
