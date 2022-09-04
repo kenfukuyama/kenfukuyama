@@ -1,13 +1,15 @@
 
 <div align="center" style="margin-bottom: 1rem; margin-top: 1rem;">
 
-## **- About Me -**
+### **- About Me -**
 
 </div>
 
-## Hi, My name is Ken Fukuyama!
+#### Hi, My name is Ken Fukuyama!
 
-### I am a full stack developer with background in computer science and data science currently studying at UCLA.
+<h4> 
+I am a full stack developer with background in computer science and data science currently studying at UCLA. Feel free to connect with me on <a href="www.linkedin.com/in/kenfukuyama">LinkedIn</a>
+</h4>
 
 
 <p align="center" style="margin-bottom: 1rem; margin-top: 1rem;">
@@ -22,17 +24,23 @@
 
 <div align="center" style="margin-bottom: 1rem; margin-top: 1rem;">
 
-## **- Projects -**
+###  **- Projects -**
 
 </div>
 
-### Chit Chat - Full Stack Instant Messaging Application in Java
+<div align="center">
+
+#### Chit Chat - Full Stack Instant Messaging Application in Java
+
+</div>
+
+
 <hr/>
 
 <div align="center">
   <div style="display: flex; gap: 1rem; flex-direction: column; align-items: center">
-    <img width="460" src="chitchat-channels.gif" alt="channel img"/>
-    <img width="460" src="chitchat-dms.gif" alt="dm img"/>
+    <img width="600" src="chitchat-channels.gif" alt="channel img"/>
+    <img width="600" src="chitchat-dms.gif" alt="dm img"/>
   </div>
 </div>
 
@@ -41,7 +49,13 @@
 </div>
 
 
-### Event Management - CRUD Application Using Java Spring Boot Framework
+
+<div align="center">
+
+#### Event Management - CRUD Application Using Java Spring Boot Framework
+
+</div>
+
 
 <hr/>
 
