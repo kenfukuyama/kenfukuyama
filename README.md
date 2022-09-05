@@ -7,7 +7,7 @@
 
 
 <p> 
-Hi my name is Ken Fukuyama! I am a full stack developer with background in computer science and data science currently studying at UCLA. I am passionate about creating software that makes people's life better and easier. <br/>  <br/> Feel free to connect with me on <a href="https://www.linkedin.com/in/kenfukuyama/">LinkedIn</a> or send me an email (<em>kenfukuyama.12@gmail.com</em>).
+Hi, my name is Ken Fukuyama! I am a full stack developer with background in computer science and data science currently studying at UCLA. I am passionate about creating software that makes people's life better and easier. <br/>  <br/> Feel free to connect with me on <a href="https://www.linkedin.com/in/kenfukuyama/">LinkedIn</a> or send me an email (<em>kenfukuyama.12@gmail.com</em>).
 </p>
 
 
