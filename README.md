@@ -28,7 +28,7 @@ Hi, my name is Ken Fukuyama! I am a full stack developer with background in comp
 </h2>
 
 <h3 align="center">
-BruinNetwork - Full stack social network site for students	(Live Site: <a href="bruinnetwork.com">bruinnetwork.com</a>)
+BruinNetwork - Full stack social network site for students	(Live Site: <a href="http://bruinnetwork.com">bruinnetwork.com</a>)
 </h3>
 
 <div align="center">
@@ -46,7 +46,7 @@ BruinNetwork - Full stack social network site for students	(Live Site: <a href="
 
 
 <h3 align="center">
-Chit Chat - Full Stack Instant Messaging Application in Java (Live Site: <a href="kb.chit-chat.link">kb.chit-chat.link</a>)
+Chit Chat - Full Stack Instant Messaging Application in Java (Live Site: <a href="https://kb.chit-chat.link">kb.chit-chat.link</a>)
 
 </h3>
 
