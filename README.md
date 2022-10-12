@@ -33,8 +33,9 @@ BruinNetwork - Full stack social network site for students	(Live Site: <a href="
 
 <div align="center">
   <div style="display: flex; gap: 1rem; flex-direction: column; align-items: center">
-    <img width="600" src="chitchat-channels.gif" alt="channel img"/>
-    <img width="600" src="chitchat-dms.gif" alt="dm img"/>
+    <img width="600" src="chitchat.gif" alt="chitchat img"/>
+    <img width="600" src="event-view.gif" alt="event img"/>
+   <img width="600" src="friendship.gif" alt="friendship img"/>
   </div>
 </div>
 
