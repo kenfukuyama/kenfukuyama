@@ -28,7 +28,24 @@ Hi, my name is Ken Fukuyama! I am a full stack developer with background in comp
 </h2>
 
 <h3 align="center">
-Chit Chat - Full Stack Instant Messaging Application in Java
+BruinNetwork - Full stack social network site for students	(Live Site: <a href="bruinnetwork.com">bruinnetwork.com</a>)
+</h3>
+
+<div align="center">
+  <div style="display: flex; gap: 1rem; flex-direction: column; align-items: center">
+    <img width="600" src="chitchat-channels.gif" alt="channel img"/>
+    <img width="600" src="chitchat-dms.gif" alt="dm img"/>
+  </div>
+</div>
+
+<div align="center" style="margin-bottom: 2rem; margin-top: 1rem;">
+  <a href="https://github.com/kenfukuyama/BruinNetwork/blob/master/README.md">GitHub README: BruinNetwork</a>
+</div>
+
+
+
+<h3 align="center">
+Chit Chat - Full Stack Instant Messaging Application in Java (Live Site: <a href="kb.chit-chat.link">kb.chit-chat.link</a>)
 
 </h3>
 
@@ -43,7 +60,7 @@ Chit Chat - Full Stack Instant Messaging Application in Java
 </div>
 
 <div align="center" style="margin-bottom: 2rem; margin-top: 1rem;">
-  <a href="https://github.com/kenfukuyama/chitchat">GitHub Repo: Chit Chat</a>
+  <a href="https://github.com/kenfukuyama/chitchat/blob/main/README.md">GitHub README: Chit Chat</a>
 </div>
 
 
