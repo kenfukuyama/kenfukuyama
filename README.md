@@ -31,8 +31,13 @@ At UCLA, I am studying various subjects in computer science and data science. I 
 </h2>
 
 <h3 align="center">
-BruinNetwork - Full stack social network site for students	(Live Site: <a href="http://bruinnetwork.com">bruinnetwork.com</a>)
+BruinNetwork - Full stack social network site for students	
 </h3>
+
+<!-- 
+(Live Site: <a href="http://bruinnetwork.com">bruinnetwork.com</a>)
+-->
+
 
 <div align="center">
   <div style="display: flex; gap: 1rem; flex-direction: column; align-items: center">
