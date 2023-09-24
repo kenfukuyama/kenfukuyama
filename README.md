@@ -34,9 +34,7 @@ At UCLA, I am studying various subjects in computer science and data science. I 
 BruinNetwork - Full stack social network site for students	
 </h3>
 
-<!-- 
-(Live Site: <a href="http://bruinnetwork.com">bruinnetwork.com</a>)
--->
+<!--  (Live Site: <a href="http://bruinnetwork.com">bruinnetwork.com</a>) -->
 
 
 <div align="center">
